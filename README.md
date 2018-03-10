@@ -1,1 +1,1 @@
-## titanic in kaggle practice
+## titanic in kaggle
